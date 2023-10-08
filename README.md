@@ -7,7 +7,7 @@
 
 <p align="center">
   <samp>
-<img src = "https://github.com/3Omaralaa/3Omaralaa/assets/118674991/188dd297-5760-4cba-b01a-6a412de04c1b" width="30px">
+<img src = "https://github.com/3Omaralaa/3Omaralaa/assets/118674991/188dd297-5760-4cba-b01a-6a412de04c1b" width="50px">
 
   </samp>
 </p>
