@@ -16,7 +16,8 @@
 <p align="center">
   <samp>
     @ me on <a href="https://www.facebook.com/profile.php?id=100040461962240">Facebook</a><br><br>
-   <img src="https://tenor.com/view/waiting-gif-21631787">
+   <img src="![waiting](https://github.com/3Omaralaa/3Omaralaa/assets/118674991/46ad0118-e3a9-423f-a547-5bf83a64b580)
+">
   </samp>
 </p>
 
