@@ -1,7 +1,6 @@
 <p align="center">
   <samp>
-    Hi! I'm currently designing at <a href="https://www.oplabs.co/">OP Labs</a>,
-    <br>contributing to <a href="https://www.optimism.io/">Optimism</a>'s vision.
+    Hi! I'm OMAR ALAA , <br> a .NET Backend Developer From Egypt
   </samp>
 </p>
 
@@ -11,13 +10,6 @@
   </samp>
 </p>
 
-<p align="center">
-  <samp>
-    Before that, I designed for GitHub for 6+ years.
-    <br>It was here where I grew up, developed my opinions,
-    <br>and became a GitHub maxi.
-  </samp>
-</p>
 
 <p align="center">
   <samp>
@@ -27,7 +19,7 @@
 
 <p align="center">
   <samp>
-    @ me on <a href="https://twitter.com/pifafu">Twitter</a><br><br>
+    @ me on <a href="https://www.facebook.com/profile.php?id=100040461962240">Facebook</a><br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
   </samp>
 </p>
