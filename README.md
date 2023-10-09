@@ -1,5 +1,5 @@
 <p align="center">
-  <samp>
+  <samp font size="100px">
     Hi! I'm OMAR ALAA,
    <br> A .NET Backend Web Developer
   </samp>
