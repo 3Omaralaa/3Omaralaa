@@ -18,7 +18,7 @@
 <p align="center">
   <samp>
     @ me on <a href="https://www.facebook.com/profile.php?id=100040461962240">Facebook</a><br><br>
-   <img src="https://github.com/3Omaralaa/3Omaralaa/assets/118674991/c9938f80-b59a-4923-a7f6-167abf6b6e3b">
+   <img src="https://github.com/3Omaralaa/3Omaralaa/assets/118674991/c9938f80-b59a-4923-a7f6-167abf6b6e3b" width="150px">
 
    
   </samp>
