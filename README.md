@@ -1,4 +1,4 @@
-<p align="center" font size="300px">
+<p align="center">
   <samp>
     Hi! I'm OMAR ALAA,
    <br> A .NET Backend Web Developer
