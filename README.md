@@ -1,8 +1,7 @@
 <p align="center">
   <samp>
     Hi! I'm OMAR ALAA,
-
-    <br> a .NET Backend Developer
+   <br> a .NET Backend Developer
   </samp>
 </p>
 
