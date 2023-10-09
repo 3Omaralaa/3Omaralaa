@@ -8,7 +8,7 @@
 <p align="center">
   <samp>
   <img src = "https://github.com/3Omaralaa/3Omaralaa/assets/118674991/188dd297-5760-4cba-b01a-6a412de04c1b" width="50px"> 
-   <br> I love to write code in a high-paced and challenging <br> environment with an emphasis on using best practices to develop high-quality software that
+   <br> I love to write code in a high-paced and challenging environment with <br> an emphasis on using best practices to develop high-quality software that
   </samp>
 </p>
 
