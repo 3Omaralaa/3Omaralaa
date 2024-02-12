@@ -24,4 +24,9 @@
     Finish Javascript And Start With C# (Mission Failed)
 </details>
 
+<details>
+  <summary><b>:telescope: 2024 goal</b></summary>
+    Make Money
+</details>
+
 
