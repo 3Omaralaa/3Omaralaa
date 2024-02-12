@@ -21,7 +21,7 @@
 
 <details>
   <summary><b>:skull: 2024 goal</b></summary>
-    Make Money
+   Finish .Net Backend Track & Make Money
 </details>
 
 <details>
