@@ -21,7 +21,7 @@
 
 <details>
   <summary><b>:telescope: 2023 goal</b></summary>
-    finish javascript and start with c# (Ok Mission Failed)
+    Finish Javascript And Start With C# (Mission Failed)
 </details>
 
 
