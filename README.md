@@ -20,13 +20,15 @@
 </p>
 
 <details>
+  <summary><b>:skull: 2024 goal</b></summary>
+    Make Money
+</details>
+
+<details>
   <summary><b>:telescope: 2023 goal</b></summary>
     Finish Javascript And Start With C# (Mission Failed)
 </details>
 
-<details>
-  <summary><b>:telescope: 2024 goal</b></summary>
-    Make Money
-</details>
+
 
 
