@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    Hi! I'm OMAR ALAA hand:,
+    Hi! I'm OMAR ALAA :hi:,
    <br> A .NET Backend Developer
   </samp>
 </p>
