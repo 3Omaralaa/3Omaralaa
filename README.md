@@ -19,12 +19,12 @@
 </p>
 
 <details>
-  <summary><b>:skull: 2024 goal</b></summary>
+  <summary><b>:skull: 2026 goal</b></summary>
    Finish Track & Make Money
 </details>
 
 <details>
-  <summary><b>:telescope: 2023 goal</b></summary>
+  <summary><b>:telescope: 2027 goal</b></summary>
     Finish Javascript And Start With C# (Mission Failed)
 </details>
 
