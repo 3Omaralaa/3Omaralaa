@@ -1,7 +1,6 @@
 <p align="center">
   <samp>
     Hi! I'm OMAR ALAA 👋🏻 ,
-   <br> VA at ALX Arabia | Senior in Software Engineering | BMIS and R&D
   </samp>
 </p>
 
