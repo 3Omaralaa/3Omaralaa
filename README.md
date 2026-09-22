@@ -20,7 +20,7 @@
 
 <details>
   <summary><b>:skull: 2026 goal</b></summary>
-  
+  Learn Python & Java
 </details>
 
 <details>
